@@ -9,7 +9,7 @@ public class Main {
     public static int[] heroesAttack = {20, 20, 20};
     public static int medicSave = 20;
     public static String bossDefenceType = "";
-    public static String[] heroesAttackType = {"Phisical", "Magycal", "Kinetic", "Medic"};
+    public static String[] heroesAttackType = {"Physical", "Magical", "Kinetic", "Medic"};
 
     public static void main(String[] args) {
         int roundNumber = 1;
